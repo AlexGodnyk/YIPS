@@ -2,7 +2,7 @@
 yip: 55
 title: Add Neutrino USD to yVaults
 status: WIP
-author: Shamil Khalilov (@sham789), Aleksei Pupyshev (@DeFi-Evangelist)
+author: Shamil Khalilov (@sham789), Aleksei Pupyshev (@DeFi-Evangelist), Ilya Sapranidi (@sapranidi)
 discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here>
 created: 2021-01-14
 ---
@@ -13,7 +13,7 @@ Add Neutrino USD (USDN) with Buy-N-Hold strategy in yVaults.
 
 ## Abstract
 
-Add Neutrino USD (USDN) with Buy-N-Hold strategy in yVaults.
+We propose to add Neutrino USD (USDN) as an option in yVaults. The stability of USDN, as a stablecoin pegged to US Dollar, allows for minimizing risks within a vault, and its auto-staking capabilities can positively influence yields within the Buy-N-Hold strategy. 
 
 ## Motivation
 <!--This is the problem statement. This is the *why* of the YIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!-->
